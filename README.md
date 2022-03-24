@@ -3,6 +3,12 @@
 - Originally made for use for New Delhi Gavels Club.
 - Originally developed in August 2020, has been in use since then.
 
+## Setup
+```
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow
+```
+
 ## An example interaction:
 ```
 Enter recipient name: A Very Long Name
