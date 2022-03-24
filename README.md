@@ -50,3 +50,5 @@ This program only generates a photo that looks like a certificate. This is very 
 To ensure security/non-fungibility, what you _can_ do is use [GnuPG](https://www.gnupg.org/) to cryptographically sign these documents to prove that they are valid.
 
 For more, you can do is read the [documentation](https://www.gnupg.org/gph/en/manual/c14.html) and [ a convenient signing menthod here](https://www.gnupg.org/gph/en/manual/x135.html#AEN160).
+
+You can also look at the [Kleopatra](https://www.openpgp.org/software/kleopatra/) or [gpg4win](https://www.gpg4win.org/) projects for a graphical interface to GPG.
