@@ -1,6 +1,7 @@
 # Certificate Generator
 
 - Originally made for use for New Delhi Gavels Club.
+- Originally developed in August 2020, has been in use since then.
 
 ## An example interaction:
 ```
