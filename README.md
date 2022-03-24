@@ -42,3 +42,11 @@ For example, these are the default bounding boxes for the sample certificate.
 ![Image with bounding boxes for text](box_illustration.png)
 
 You can mess with the fonts, font sizes, spacing and define custom bounding boxes in [main.py](main.py).
+
+## Security
+
+This program only generates a photo that looks like a certificate. This is very easily forgable and thus should not be used as a proper document.
+
+To ensure security/non-fungibility, what you _can_ do is use [GnuPG](https://www.gnupg.org/) to cryptographically sign these documents to prove that they are valid.
+
+For more, you can do is read the [documentation](https://www.gnupg.org/gph/en/manual/c14.html) and [ a convenient signing menthod here](https://www.gnupg.org/gph/en/manual/x135.html#AEN160).
