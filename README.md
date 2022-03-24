@@ -43,6 +43,9 @@ For example, these are the default bounding boxes for the sample certificate.
 
 You can mess with the fonts, font sizes, spacing and define custom bounding boxes in [main.py](main.py).
 
+## Shipping to users
+After customizing the options, you can get it all packaged and ready to be distributed as an exe with [py2exe](https://www.py2exe.org/index.cgi/Tutorial).
+
 ## Security
 
 This program only generates a photo that looks like a certificate. This is very easily forgable and thus should not be used as a proper document.
